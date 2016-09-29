@@ -1,0 +1,11 @@
+@import '~bootstrap/scss/bootstrap-flex';
+
+// vars
+$margin: 100px;
+$width: 500px;
+
+.my-container {
+  margin-bottom: $margin;
+  margin-top: $margin;
+  width: $width;
+}
